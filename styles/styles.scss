@@ -84,7 +84,7 @@ section {
     transform: translateV(0) scale(1);
 }
 
-.active {
+.active{
     display: block;
     animation: scaleAnim 1s ease-in-out;
     @keyframes scaleAnim {
